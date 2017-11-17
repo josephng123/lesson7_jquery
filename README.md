@@ -4,20 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 17, 2017
 
 ### Student Name:  
-(First and Last Name)
+Joseph Ng
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Utilized jQuery in creating a recipe display application
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://josephng123.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. Learned how to use jQuery commands in .js files linked in the index.html file.
+2. Created effects such as hovering and changes in colors.
+3. Practiced using the Javascript console pane in exploring different arrays of code.
